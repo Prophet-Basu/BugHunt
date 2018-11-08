@@ -1,0 +1,58 @@
+﻿body{
+    font-family:'Segoe UI';
+    background-color:#494949;
+}
+
+
+
+#table-container{
+    align-content: center;
+    align-content:center;
+    width:75%;
+    
+}
+
+.jumbotron{
+    align-content:center;
+    margin-top:75px;
+    padding:20px;
+    background-color:rgba(255, 255, 255, 0.8);
+    color:black;
+}
+
+
+#heading{
+    font-size:26px;
+    font-weight:700;
+    border-radius:25px;
+    border:5px solid #c20101;
+    text-align:center;
+}
+
+.row{
+	margin-right: 0px;
+	margin-left:0px;
+    margin-bottom:15px;
+}
+
+.jumbotron p{
+    font-size:18px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+.box{
+    border-radius:25px;
+    border:3px solid #00763c;
+    margin-top:30px;
+}
+#small-heading{
+    font-size:18px ;
+    font-weight:500;
+    margin-top:20px;
+    text-decoration:underline;
+    text-align:center;
+}
+.glyphicon{
+    padding-right:1em;
+}

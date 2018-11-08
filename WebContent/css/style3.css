@@ -1,0 +1,61 @@
+body{
+    font-family:'Segoe UI';
+    background-color: rgba(188, 188, 188, 0.46);
+    height: 700px;
+}
+
+.full {
+    background: url('../img/reg.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+#table-container{
+    align-content: center;
+    align-content:center;
+    width:70%;
+    text-align:center;
+    
+}
+
+.jumbotron{
+    align-content:center;
+    margin-top:75px;
+    padding:20px;
+    background-color:rgba(255, 255, 255, 0.8);
+    color:black;
+}
+
+
+#heading{
+    font-size:26px;
+    font-weight:700;
+    border-radius:25px;
+    border:3.5px solid rgba(154, 19, 19, 0.88);
+    text-align:center;
+    color:#13935b;
+}
+
+.row{
+	margin-right: 0px;
+	margin-left:0px;
+    margin-bottom:15px;
+}
+
+.jumbotron p{
+    font-size:18px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+
+.glyphicon{
+    padding-right:1em;
+}
+
+.border{
+    border:2px solid #808080;
+    border-radius:25px;
+}

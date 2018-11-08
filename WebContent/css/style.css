@@ -1,0 +1,65 @@
+body{
+    font-family:'Segoe UI';
+}
+
+.full {
+    background: url('../img/bughunt.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.navbar li a{
+   margin-left:1.5em;
+   margin-right:1.5em;
+   
+}
+
+
+.navbar-brand{
+    font-size:22px ;
+}
+
+
+#login{
+   rgba(177, 177, 178, 0.55);
+   padding-bottom: 0px;
+}
+
+.push-to-bottom {
+  position: absolute;
+  bottom: 0px;
+  /*left: 50%;
+  margin-left: -50px;*/
+  width:100%;
+  margin-left:0px;
+  margin-right:0px;
+}
+.jumbotron{
+    margin-bottom:0px ;
+    padding-top: 10px;
+    background-color: rgba(177, 177, 178, 0.65);
+}
+.row{
+	margin-right: 0px;
+	margin-left:0px;
+}
+
+.heading{
+    color: #C13F31;
+    font-family:'Segoe UI';
+    
+}
+#head{
+	text-align: center;
+    margin-bottom: 40px;
+}
+
+.jumbotron p{
+    font-size:24px;
+    font-weight:bold;
+}
+
+#btnrow{
+	margin-top: 20px;
+}
